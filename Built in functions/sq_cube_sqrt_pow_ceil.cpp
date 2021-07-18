@@ -11,9 +11,9 @@ int main()
 	printf("Square of the number is %.2f.",pow(num,2));
 	printf("\nCube of the number is %.2f.",pow(num,3));
 	
-	printf("\nFloor of the number is %i.",(int) floor(num));
+	printf("\nFloor of the number is %d.",(int) floor(num));
 
-	printf("\nCeil of the number is %i.",(int) ceil(num)); 
+	printf("\nCeil of the number is %d.",(int) ceil(num)); 
 	
 	
 }
